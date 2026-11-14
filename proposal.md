@@ -1,21 +1,22 @@
 # Title
+Original Character Fortune Cookie
 
 ## Repository
 <Link to your project's public GitHub respository>
 
 ## Description
-A generator to come up with ideas for original characters. 
+A generator to come up with ideas for original characters. The program will generate a prompt that the user can use to make an original character. This program is great for digital art and media, as it is a fun way to practice drawing or modelling. The user can build on what they are prompted with in any way that they like once the idea is sparked by the program. All of it is wrapped in a fun "fortune cookie" style image.  
 
 ## Features
 - Feature 1
-	- It will produce a basic sentence with a noun and 1-2 adjectives that are randomly selected from a dictionary.
+	- Displays a randomized sentence with a noun and 1-2 adjectives that are randomly selected from a dictionary in a long, "fortune cookie" styled image
 - Feature 2
-	- It will display that sentence to the screen in a long image, similar to a fortune cookie.
+	- UI with a button the user can click to generate their slip.
 - Feature N 
-	- It will also allow the user to input adjectives and nouns of their own.
+	- It will also allow the user to input adjectivesp and nouns of their own.
 
 ## Challenges
-- Creating a user interface, I would like there to be a window that opens and the user clicks a button to generate their oc fortune
+- Creating a user interface, I would like there to be a window that opens and the user clicks a button to generate their oc fortune image
 - Differentiating between nouns and adjectives when the user inputs them
 - Producing images
 
