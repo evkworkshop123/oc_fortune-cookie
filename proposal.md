@@ -2,7 +2,7 @@
 Original Character Fortune Cookie
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/evkworkshop123/oc_fortune-cookie/commit/4b4bd40c9aca533b93450c1a0264bd027bcd568f
 
 ## Description
 A generator to come up with ideas for original characters. The program will generate a prompt that the user can use to make an original character. This program is great for digital art and media, as it is a fun way to practice drawing or modelling. The user can build on what they are prompted with in any way that they like once the idea is sparked by the program. All of it is wrapped in a fun "fortune cookie" style image.  
