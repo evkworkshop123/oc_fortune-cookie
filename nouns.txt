@@ -1,0 +1,6 @@
+cowboy
+superhero
+werewolf
+wizard
+penguin
+pilot
